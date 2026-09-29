@@ -1,9 +1,16 @@
 ﻿
 
-Fernerkundung in der Landschaftsplanung - Tag 5 - Überwachte Klassifikation in QGIS und R
+OEKB100356 Einführung in die Fernerkundung - Tag 5 - Überwachte Klassifikation in QGIS und R
 
 **Autoren:** Dieses Tutorial wurde von Fabian Fassnacht entwickelt.
 
+### Software
+
+In dieser Übung nutzen wir QGIS um Trainingsdaten zu sammeln. Wenn ihr an eurem eigenen Rechner arbeitet und QGIS noch nicht installiert habt, so könnt ihr es hier herunterladen:
+
+https://qgis.org/download/
+
+Ich würde euch raten den Long-term release herunterzuladen, da diese Versionen in der Regel am stabilsten sind.
 
 ### Lernziele
 
